@@ -34,7 +34,9 @@ As [indicated by the board](https://discourse.nixos.org/t/board-update-2-assembl
 To give updates or ask for community input, the NCA makes announcements on [Discourse](https://discourse.nixos.org/c/announcements/constitutional-assembly/54), which you can get notifications for by clicking the bell icon.
 The announcements are also mirrored to [Zulip](https://nixpkgs.zulipchat.com/#narrow/stream/437619-assembly-announcements).
 
-If you have questions for the NCA, you can either ask the [members](#members) privately or ask publicly in the [assembly Q&A channel](https://nixpkgs.zulipchat.com/#narrow/stream/438035-Assembly-Q.26A) on [Zulip](./zulip.md).
+If you have questions for the NCA, you can either:
+- Ask the [members](#members) privately
+- Ask publicly in the [Q&A](./qna.md)
 
 ### Feedback and ideas
 
