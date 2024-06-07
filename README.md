@@ -14,7 +14,7 @@ The following people have [been appointed](https://discourse.nixos.org/t/nixos-f
 - 7c6f434c / Michael Raskin ([GitHub](https://github.com/7c6f434c/), [Discourse](https://discourse.nixos.org/u/7c6f434c), [Zulip](https://nixpkgs.zulipchat.com/#user/715185))
 - Ryan Trinkle ([GitHub](https://github.com/ryantrinkle), [Discourse](https://discourse.nixos.org/u/ryantrinkle), [Zulip](https://nixpkgs.zulipchat.com/#user/720132))
 - Sarah Novotny ([GitHub](https://github.com/sarahnovotny), [Discourse](https://discourse.nixos.org/u/sarahnovotny), [Zulip](https://nixpkgs.zulipchat.com/#user/715272))
-- Silvan Mosberger ([GitHub](https://github.com/infinisil/), [Discourse](https://discourse.nixos.org/u/Infinisil), [Zulip](https://nixpkgs.zulipchat.com/#user/714637))
+- Silvan Mosberger ([GitHub](https://github.com/infinisil/), [Discourse](https://discourse.nixos.org/u/Infinisil), [Zulip](https://nixpkgs.zulipchat.com/#user/714637), [email](mailto:nca@infinisil.com))
 
 ## Mission
 
