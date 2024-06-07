@@ -43,7 +43,7 @@ If you have questions for the NCA, you can either:
 The NCA collects feedback and ideas from various spaces.
 
 This includes public spaces such as:
-- Community discussions on [Zulip](./zulip.md) in the [governance channel](https://nixpkgs.zulipchat.com/#narrow/stream/435724-governance)
+- Community discussions on [Zulip](./zulip/README.md) in the [governance channel](https://nixpkgs.zulipchat.com/#narrow/stream/435724-governance)
 - Open calls: For updates and Q&A, occasionally announced as necessary, past meeting notes [here](./calls)
 
 Furthermore, since public spaces don't work for everybody, you can also reach out to the [members](#members) privately, and the NCA may also reach out to some people as needed.
