@@ -11,7 +11,7 @@ The following people have [been appointed](https://discourse.nixos.org/t/nixos-f
 - Danielle Lancashire ([GitHub](https://github.com/endocrimes), [Discourse](https://discourse.nixos.org/u/endocrimes), [Zulip](https://nixpkgs.zulipchat.com/#user/714680))
 - edef ([GitHub](https://github.com/edef1c/), [Discourse](https://discourse.nixos.org/u/edef), [Zulip](https://nixpkgs.zulipchat.com/#user/714928), dedicated [email](mailto:nca@edef.eu))
 - lassulus ([GitHub](https://github.com/Lassulus), [Discourse](https://discourse.nixos.org/u/lassulus), [Zulip](https://nixpkgs.zulipchat.com/#user/714856))
-- Michael Raskin ([GitHub](https://github.com/7c6f434c/), [Discourse](https://discourse.nixos.org/u/7c6f434c), [Zulip](https://nixpkgs.zulipchat.com/#user/715185))
+- 7c6f434c / Michael Raskin ([GitHub](https://github.com/7c6f434c/), [Discourse](https://discourse.nixos.org/u/7c6f434c), [Zulip](https://nixpkgs.zulipchat.com/#user/715185))
 - Ryan Trinkle ([GitHub](https://github.com/ryantrinkle), [Discourse](https://discourse.nixos.org/u/ryantrinkle), [Zulip](https://nixpkgs.zulipchat.com/#user/720132))
 - Sarah Novotny ([GitHub](https://github.com/sarahnovotny), [Discourse](https://discourse.nixos.org/u/sarahnovotny), [Zulip](https://nixpkgs.zulipchat.com/#user/715272))
 - Silvan Mosberger ([GitHub](https://github.com/infinisil/), [Discourse](https://discourse.nixos.org/u/Infinisil), [Zulip](https://nixpkgs.zulipchat.com/#user/714637))
