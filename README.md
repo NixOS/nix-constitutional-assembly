@@ -27,6 +27,8 @@ The following baselines have been given:
 
 As [indicated by the board](https://discourse.nixos.org/t/board-update-2-assembly-appointment-process/45048#assembly-lifetime-7), once the new governance structure is approved by the board, the NCA enters a transitory period to support the execution of the structure before finally disbanding.
 
+To give us a reasonable timeline and set expectations for the wider community, we are **targeting our work to be done by 2024-09-01**.
+
 ## Communication
 
 ### Updates
@@ -52,5 +54,5 @@ Furthermore, since public spaces don't work for everybody, you can also reach ou
 #### Interview
 
 We have also been privately interviewing project contributors with predefined questions.
-If you'd like to give us your input in such a form, feel free to fill out the [interview template](./interview-questions.md) and message any of the [NCA members](#members).
+If you'd like to give us your input in such a form, feel free to fill out the [interview template](./interview-questions.md) and send it to any of the [NCA members](#members).
 Feel free to add what you want to add as a postscriptum!
