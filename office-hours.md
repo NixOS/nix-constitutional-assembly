@@ -11,3 +11,5 @@ The time slots are
 - @lassulus: Thursday [18:00 CEST](https://time.is/1800_in_CEST)
 
 Meeting link: https://jitsi.lassul.us/nca-personal-weekly
+
+These meetings are also available on the [NixOS Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=b9o52fobqjak8oq8lfkhg3t0qg@group.calendar.google.com) and the [Community Calendar](https://discourse.nixos.org/t/community-calendar/18589).
