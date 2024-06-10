@@ -27,6 +27,8 @@ The following baselines have been given:
 
 As [indicated by the board](https://discourse.nixos.org/t/board-update-2-assembly-appointment-process/45048#assembly-lifetime-7), once the new governance structure is approved by the board, the NCA enters a transitory period to support the execution of the structure before finally disbanding.
 
+To give us a reasonable timeline and set expectations for the wider community, we are **targeting our work to be done by 2024-09-01**.
+
 ## Communication
 
 ### Updates
@@ -45,5 +47,12 @@ The NCA collects feedback and ideas from various spaces.
 This includes public spaces such as:
 - Community discussions on [Zulip](./zulip/README.md) in the [governance channel](https://nixpkgs.zulipchat.com/#narrow/stream/435724-governance)
 - Open calls: For updates and Q&A, occasionally announced as necessary, past meeting notes [here](./calls)
+- Personal office hours: For a more personal chat with individual assembly members, some hold regular [office hours](./office-hours.md)
 
 Furthermore, since public spaces don't work for everybody, you can also reach out to the [members](#members) privately, and the NCA may also reach out to some people as needed.
+
+#### Interview
+
+We have also been privately interviewing project contributors with predefined questions.
+If you'd like to give us your input in such a form, feel free to fill out the [interview template](./interview-questions.md) and send it to any of the [NCA members](#members).
+Feel free to add what you want to add as a postscriptum!
