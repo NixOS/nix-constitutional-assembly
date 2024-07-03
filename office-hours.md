@@ -5,10 +5,10 @@ If you have any concerns and/or want to connect with us, feel free to join!
 To keep these calls smaller, we ask you to only join at most one per week.
 
 The time slots are
-- Ryan Trinkle / @ryantrinkle: Monday [16:00 CEST](https://time.is/1600_in_CEST)
-- Silvan Mosberger / @infinisil: Tuesday [21:00 CEST](https://time.is/2100_in_CEST)
-- Michael Raskin / @7c6f434c: Wednesay [23:00 CEST](https://time.is/2300_in_CEST)
-- @lassulus: Thursday [18:00 CEST](https://time.is/1800_in_CEST)
+- Ryan Trinkle / @ryantrinkle: Monday [14:00 UTC](https://time.is/1400_in_UTC)
+- Silvan Mosberger / @infinisil: Tuesday [19:00 UTC](https://time.is/1900_in_UTC)
+- Michael Raskin / @7c6f434c: Wednesay [21:00 UTC](https://time.is/2100_in_UTC)
+- @lassulus: Thursday [16:00 UTC](https://time.is/1600_in_UTC)
 
 Meeting link: https://jitsi.lassul.us/nca-personal-weekly
 
