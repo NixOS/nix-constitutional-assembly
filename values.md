@@ -25,7 +25,7 @@ To apply in many situations, values must be high-level, abstract concepts. There
 
 ### Respect and civility
 
-We treat each other with respect and civility. No matter one's individual identity, circumstances, level of contribution to the project, or status, everyone has the right to respect, and everyone has the duty to treat others with respect.
+We treat each other with respect and civility. No matter one's individual identity, circumstances, level of contribution to the project, or status, everyone has the right to respect, and everyone has the duty to treat others with respect. We prioritise project health over individual interests.
 
 People with higher visibility within the project or towards the public are subject to higher expectations for their conduct.
 
@@ -33,7 +33,7 @@ People with higher visibility within the project or towards the public are subje
 
 We are here, first and foremost, as individuals working together. Our priority here is to work on Nix projects for the benefit of all their contributors and users. We value building excellent software with a vibrant and diverse community.
 
-Individuals gain trust and status by doing the work. Companies gain prestige by funding the work of individuals and providing resources to support the project.
+Individuals gain trust and status by doing the work. Organisations gain prestige by funding the work of individuals and providing resources to support the project.
 
 ### Free software and choice over lock-in
 
@@ -51,11 +51,13 @@ We focus our attention on working together on our shared goals and working separ
 
 We build trust primarily by working together on Nix projects.
 
-### Automation over process and toil
+### Automation over process and toil[^1]
 
-We are a global community, and disseminating information and maintaining processes can be difficult. We are also a large project with a lot of hard and repetitive work. Therefore, we value automation over toil, while recognizing that not all toil can be automated. Adding new toil needs a very strong justification.
+[^1]: [Toil](https://web.archive.org/web/20240717145635/https://sre.google/sre-book/eliminating-toil/) is work that tends to be manual, repetitive, automatable, interrupt-driven, devoid of enduring value, and scaling linearly with growth.
 
-We build automation and processes that make the best use of our contributors' limited attention.
+We are a global community, and disseminating information and maintaining processes can be difficult. We are also a large project with a lot of hard and repetitive work. Therefore, we value automation over toil, while recognizing that not all toil can be automated. Automation reduces toil, but people are still accountable for it. Adding new toil needs a very strong justification.
+
+We build automation and processes that make the best use of our contributors' limited time and energy.
 
 ### Stable evolution over stagnation or chaos
 
