@@ -55,7 +55,7 @@ We build trust primarily by working together on Nix projects.
 
 [^1]: [Toil](https://web.archive.org/web/20240717145635/https://sre.google/sre-book/eliminating-toil/) is work that tends to be manual, repetitive, automatable, interrupt-driven, devoid of enduring value, and scaling linearly with growth.
 
-We are a global community, and disseminating information and maintaining processes can be difficult. We are also a large project with a lot of hard and repetitive work. Therefore, we value automation over toil, while recognizing that not all toil can be automated. Automation reduces toil, but people are still accountable for it. Adding new toil needs a very strong justification.
+We are a global community, and disseminating information and maintaining processes can be difficult. We are also a large project with a lot of hard and repetitive work. Therefore, we value automation over toil, while recognizing that not all toil can be automated. Automation reduces toil, but people are still accountable. Adding new toil needs a very strong justification.
 
 We build automation and processes that make the best use of our contributors' limited time and energy.
 
