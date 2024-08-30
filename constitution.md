@@ -132,7 +132,7 @@ The requirements to become a candidate for the SC elections are:
 - To not have any conflicts of interest that would [prevent one from being appointed](#conflict-of-interest-balance) to the SC, and publicly disclose all potential conflicts of interest
   - This includes conflicts of interest to arise during the term based on already finalised agreements
 
-After the nomination deadline, the SC can prevent a nominee from becoming a candidate by supermajority (2/3 agreement among the currently serving non-running members of the SC) in case their public image or conduct would not be compatible with the position in the SC.
+After the nomination deadline, the SC can prevent a nominee from becoming a candidate by unanimity (among the currently serving non-running members of the SC) in case their public image or conduct would not be compatible with the position in the SC.
 
 #### Procedure
 
