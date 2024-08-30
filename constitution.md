@@ -84,7 +84,7 @@ Substantial amendments to the Nix Community Values require 90% agreement in a po
 
 Everything within the authority of SC that doesn't require an extraordinary decision can be decided with a simple majority (at least 50%) of a full SC (vacant seats count as abstaining).
 
-An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-balance) condition is suspected to be violated, in which case all non-involved currently-serving SC members will have a simple majority decision over whether there is a violation.
+An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-coi-balance) condition is suspected to be violated, in which case all non-involved currently-serving SC members will have a simple majority decision over whether there is a violation.
 
 ### Composition and Appointment
 
@@ -129,7 +129,7 @@ The requirements to become a candidate for the SC elections are:
   - Eligible voters may endorse multiple nominees
 - To have been not a member of the SC for at least two complete years of the two immediately preceding terms
 - To not be a member of the EC
-- To not have any conflicts of interest that would [prevent one from being appointed](#conflict-of-interest-balance) to the SC, and publicly disclose all potential conflicts of interest
+- To not have any conflicts of interest that would [prevent one from being appointed](#conflict-of-interest-coi-balance) to the SC, and publicly disclose all potential conflicts of interest
   - This includes conflicts of interest to arise during the term based on already finalised agreements
 
 After the nomination deadline, the SC can prevent a nominee from becoming a candidate by unanimity (among the currently serving non-running members of the SC) in case their public image or conduct would not be compatible with the position in the SC.
