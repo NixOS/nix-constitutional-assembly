@@ -19,26 +19,31 @@ This constitution roughly comprises these parts:
 
 ### Steering Committee
 
-To guide the projects in accordance with Nix Community Values, the Steering Committee shall have the following responsibilities, which it should delegate when appropriate.
+The SC is responsible for guiding projects in alignment with Nix Community Values.
+It has the following responsibilities, which it may delegate as appropriate:
 
-- Manage which resources are considered official and manage the official resources
-  - This involves both public communication resources and technical infrastructure
-  - As of the time of establishment of SC, the [official resources](https://github.com/NixOS/org/blob/main/doc/resources.md) and access to them are listed in the repository
-  - In particular, ensure existence and execution of processes for granting access to the projects and to the resources
-- Manage the direction and processes of the projects when necessary
-  - Ensure that project direction decisions and where the decisions came from are made explicit
-    - Ensure timeliness of decisions as far as possible
-    - Ensure that stalling on decisions is made explicit when unavoidable
-      - When possible, recommend time or condition for followup
-  - Ensure that the processes for making regular decisions exist and function
-  - Ensure that escalation points exist and work
-    - Final (until significant changes in the circumstances or available data and arguments) decision authority may be delegated, when significant analysis of the issue and the arguments is needed to build the competence to make a good decision. However, if the team receiving the authority does not reach internal consensus, the SC still has the responsibility to handle the delegation failure.
-  - Evolve the constitution, including governance structure and governance processes, when appropriate, under supermajority requirements
-- Create and manage teams to delegate authority on specific areas to them
-  - Delegate authority over areas of interest to long-term teams and committees needing specific authority, and evolve their policy
-  - Delegate analysis of arguments and the making of a consensus (inside the team) decision on specific contentious issues to short-lived teams
-- In communication with the NixOS Foundation Board, set the policies and priorities for highly visible actions and events, and the resources under the care of the Foundation
-  - Any delegation of this responsibility also delegates the communication with the Board on the delegated topics
+- Project Direction:
+  - Guide the direction of projects when necessary, ensuring that decisions are made explicit, along with their origins.
+  - Ensure project decisions get made in a timely manner as far as possible.
+  - If unavoidable, ensure that decisions are explicitly marked as stalled and recommend follow-up times or conditions.
+- Decision-Making:
+  - Ensure the existence and functionality of processes for regular decision-making within the community.
+  - Maintain effective escalation points for issues that require further attention.
+    - Decision authority may be delegated to other teams when significant analysis is needed, but the SC remains responsible if the delegated team fails to reach a decision.
+  - Evolve the constitution, including governance structures and processes, as needed, subject to supermajority approval.
+- Coordination with the NixOS Foundation Board:
+  - Collaborate with the NixOS Foundation Board to set policies and priorities for high-visibility actions, events, and resources under the Foundation's care.
+  - Any delegation of responsibilities related to these areas also delegates communication with the Board on the relevant topics.
+- Creation and Management of Teams:
+  - Establish and manage teams to delegate authority on specific areas.
+    - Specify formal decision procedures for teams.
+  - Delegate authority to long-term teams and committees, allowing them to evolve policies as needed.
+  - Form short-term teams to analyze arguments and reach a decision on contentious issues.
+- Management of Official Resources:
+  - Decide which resources are considered official
+  - Oversee and manage official resources, including public communication channels and technical infrastructure.
+  - Ensure the existence and proper execution of processes for granting access to projects and resources.
+  - As of the establishment of the SC, [official resources](https://github.com/NixOS/org/blob/main/doc/resources.md) and access details are listed in the repository.
 
 ### NixOS Foundation Board
 
