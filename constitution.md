@@ -61,7 +61,7 @@ In particular, its responsibilities are to:
 
 #### Board Composition Changes
 
-Board changes are decided by a selection committee composed of some delegates from the current board and some delegates from the SC. To block any specific new or continuing appointment of a person, objections from a number of delegates equal to the size of the smaller delegation of the two (board or SC) suffice. For example, with 1 delegate from the board, and 3 delegates from the SC, one delegate from either can block an appointment.
+Board changes are decided by a selection committee composed of some delegates from the current board and some delegates from the SC. To block any specific new or continuing appointment of a person, objections from a number of delegates equal to the size of the smaller delegation of the two (board or SC) suffice. For example, with 1 delegate from the board, and 3 delegates from the SC, one delegate from either can block an appointment. Delegates are allowed to withdraw their objections if they find it appropriate.
 
 This procedure can be invoked by the SC or the board at any point in time.
 
