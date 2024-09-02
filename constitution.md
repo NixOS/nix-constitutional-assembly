@@ -121,7 +121,7 @@ Not eligible in any case are bot accounts and people that are banned at the time
 The requirements to become a candidate for the SC elections are:
 - To be eligible for voting
 - Agree to be a candidate
-- Provide a public position statement, why the candidate should be elected and what are the positions on the current issues.
+- Provide a public position statement on why one should be elected
 - To be publicly endorsed by at least 3 other people eligible to vote
   - How endorsements are collected will be specified by the EC
   - Among the candidate and their endorsers, there must be at least 4 individuals where no two have the same conflict of interest (e.g. employees of the same company or otherwise the same payer for Nix work), as decided by the EC.
