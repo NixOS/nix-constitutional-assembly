@@ -145,7 +145,7 @@ In any election where seats with different end-of-term dates are available, winn
 - To stagger the terms, the first election will appoint half the members rounded up with 2-year terms and the remaining members with 1-year terms.
 - The EC for the first election will be the members of the [Nix Constitutional Assembly (NCA)](https://github.com/nixos/nix-constitutional-assembly?tab=readme-ov-file#members), which are thus ineligible to be elected for the first SC
 - All nominees become candidates for the first election, because there's no existing SC that would decide over disqualifying candidates.
-- And to help the first elected SC establish itself, members of the NCA are integrated into the SC as non-voting members for 6 months after the appointment.
+- And to help the first elected SC establish itself, members of the NCA are integrated into the SC as non-voting members for 6 months after the appointment. The NCA ceases to exist at the moment of SC appointment.
 
 #### Conflict of Interest (CoI) Balance
 
