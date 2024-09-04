@@ -42,6 +42,7 @@ It has the following responsibilities, which it may delegate as appropriate:
 - Management of Official Resources:
   - Decide which resources are considered official
   - Oversee and manage official resources, including public communication channels and technical infrastructure.
+  - Create and enforce appropriate rules for Nix project spaces, including issuing Nix-wide bans, which will affect voter eligibility.
   - Ensure the existence and proper execution of processes for granting access to projects and resources.
   - As of the establishment of the SC, [official resources](https://github.com/NixOS/org/blob/main/doc/resources.md) and access details are listed in the repository.
 
