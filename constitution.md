@@ -91,7 +91,7 @@ The following decisions require at least a 2/3 supermajority agreement of the fu
 - Forced removal of SC members
 - Objecting to NixOS Foundation board member term renewals
 
-Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajority. If the SC cannot come to supermajority agreement on the list of EC members, they will conduct an election using the same tallying system as the previous SC election, where only SC members can vote.
+Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajority. If the SC cannot come to supermajority agreement on the list of EC members, they will elect an EC using the same tallying system as the previous SC election, where only SC members can vote.
 
 Disqualifications of candidates in an election requires unanimity among the currently serving non-running members.
 
