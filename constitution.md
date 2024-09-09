@@ -122,9 +122,11 @@ There are two automatic ways to become eligible for voting, either:
 
 The list of automatically eligible voters is made public.
 
-People not automatically eligible then have some time to send a request to the EC, which can then make an exception and approve them as voters. This is for people whose official contributions are not visible in the NixOS GitHub organisation, such as:
-- Official event organisers and speakers
-- Maintainers of official third-party accounts (e.g. social media)
+People not automatically eligible then have some time to send a request to the EC, which can then make an exception and approve them as voters. This is for people whose official contributions are not all visible in the NixOS GitHub organisation, but have contributed roughly the equivalent of 25 commits, also counting contributions such as:
+- Participation in official teams
+- Infrastructure maintenance
+- Organisation of official events
+- Maintenance of official third-party accounts (e.g. social media)
 - etc.
 
 After the decisions on exception requests are made, the list of approved requests is also made public.
