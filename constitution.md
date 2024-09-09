@@ -61,6 +61,7 @@ In particular, its responsibilities are to:
 - Provide a framework for the community to self-organise:
   - Handle payments for tooling, meetups, and infrastructure
   - Manage credentials and permissions
+  - Review and approve constitution changes affecting the board's authority, responsibilities, or appointment procedures.
 - Own and be responsible for financials
   - Provide fiscal planning and funding for community events and efforts
   - Decide how much funding is available for each broadly scoped type of events and efforts, while the SC decides the priorities within these scopes and limits of the allocated funds
@@ -78,6 +79,7 @@ This procedure can be invoked by the SC or the board at any time.
 The following decisions require at least a 2/3 supermajority agreement of the full SC size (vacant seats count as abstaining).
 
 - Changing the constitution
+  - Changes to the constitution that change the board's authority, responsibilities, or appointment procedures need to be approved by the board.
 - Forced removal of SC members
 
 Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajority. If the SC cannot come to supermajority agreement on the list of EC members, they will conduct an election using the same tallying system as the previous SC election, where only SC members can vote.
