@@ -47,6 +47,8 @@ It has the following responsibilities, which it may delegate as appropriate:
   - Ensure the existence and proper execution of processes for granting access to projects and resources.
   - As of the establishment of the SC, [official resources](https://github.com/NixOS/org/blob/main/doc/resources.md) and access details are listed in the repository.
 
+The SC has the authority to make decisions within the scope of its responsibilities; the restrictions on this authority are all explicitly listed in this constitution. The SC may make a decision to revoke delegation of a specific part of authority, if necessary — even if the authority in question has been with a certain team since before the current constitution.
+
 ### NixOS Foundation Board
 
 The board is a partner with the SC in leadership and is primarily focused on corporate and general external relationships, fiscals/financials, legals and partnerships.
