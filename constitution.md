@@ -34,6 +34,7 @@ It has the following responsibilities, which it may delegate as appropriate:
 - Coordination with the NixOS Foundation Board:
   - Collaborate with the NixOS Foundation Board to set policies and priorities for high-visibility actions, events, and resources under the Foundation's care.
   - Any delegation of responsibilities related to these areas also delegates communication with the Board on the relevant topics.
+  - Be involved in the [board composition change process](#board-composition-changes)
 - Creation and Management of Teams:
   - Establish and manage teams to delegate authority on specific areas.
     - Specify formal decision procedures for teams.
@@ -68,9 +69,14 @@ In particular, its responsibilities are to:
 
 #### Board Composition Changes
 
-Board changes are decided by a selection committee composed of some delegates from the current board and some delegates from the SC. To block any specific new or continuing appointment of a person, objections from a number of delegates equal to the size of the smaller delegation of the two (board or SC) suffice. For example, with 1 delegate from the board, and 3 delegates from the SC, one delegate from either can block an appointment. Delegates are allowed to withdraw their objections if they find it appropriate.
+Prior to appointing a new board member, the board shall inform the SC and give the SC the opportunity to object to the appointment by simple majority. In case of objection, the SC shall privately provide the written reasons to the board. The objection of the SC is binding to the board unless recalled by the SC.
 
-This procedure can be invoked by the SC or the board at any time.
+Board members have terms of no longer than 2 years. At the end of a term of a board member:
+- If the member wishes to remain on the board, the board may approve a term renewal.
+- If the board approves the renewal, the SC is given the ability to object with a supermajority.
+- The board can override such an objection only by a unanimous decision.
+
+The SC can always request a board decision with published votes over whether to remove a specific member.
 
 ### Steering Committee Decision process
 
@@ -81,6 +87,7 @@ The following decisions require at least a 2/3 supermajority agreement of the fu
 - Changing the constitution
   - Changes to the constitution that change the board's authority, responsibilities, or appointment procedures need to be approved by the board.
 - Forced removal of SC members
+- Objecting to NixOS Foundation board member term renewals
 
 Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajority. If the SC cannot come to supermajority agreement on the list of EC members, they will conduct an election using the same tallying system as the previous SC election, where only SC members can vote.
 
