@@ -106,7 +106,7 @@ SC members can be EC members only if they're leaving after the election.
 
 #### Vote eligibility
 
-Before the election process is initiated, the EC selects a cutoff date.
+Before the election (or poll) process is initiated, the EC selects a cutoff date.
 Only contributions to official projects in the four years preceding the cutoff date are considered.
 
 There are two automatic ways to become eligible for voting, either:
