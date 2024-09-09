@@ -93,7 +93,7 @@ The following decisions require at least a 2/3 supermajority agreement of the fu
 
 Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajority. If the SC cannot come to supermajority agreement on the list of EC members, they will elect an EC using the same tallying system as the previous SC election, where only SC members can vote.
 
-Disqualifications of candidates in an election requires unanimity among the currently serving non-running members.
+Disqualifications of candidates in an election requires supermajority among the currently serving SC members.
 
 Substantial amendments to the Nix Community Values require 90% agreement in a poll among eligible voters. Deciding that an amendment is not substantial can be done by unanimity among a full SC.
 
