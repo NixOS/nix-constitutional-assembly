@@ -32,7 +32,7 @@ It has the following responsibilities, which it may delegate as appropriate:
     - Decision authority may be delegated to other teams when significant analysis is needed, but the SC remains responsible if the delegated team fails to reach a decision.
   - Evolve the constitution, including governance structures and processes, as needed, subject to supermajority approval.
 - Coordination with the NixOS Foundation Board:
-  - Collaborate with the NixOS Foundation Board to set policies and priorities for high-visibility actions, events, and resources under the Foundation's care.
+  - Collaborate with the NixOS Foundation Board to set policies and priorities for high-visibility actions, events, and resources under the Foundation's care. Both the SC and the board need to approve such policies.
   - Any delegation of responsibilities related to these areas also delegates communication with the Board on the relevant topics.
   - Be involved in the [board composition change process](#board-composition-changes)
 - Creation and Management of Teams:
@@ -56,7 +56,7 @@ In particular, its responsibilities are to:
   - Serve as an interface between the community and the corporate/governmental/financial world
   - Manage trademarks
 - Handle external relationships, partnerships, and donations
-  - Work with the SC to establish foundation policies that balance the interests of volunteers, commercial actors, and public institutions, while staying within legal and administrative feasibility constraints. This includes sponsorship and trademark policies.
+  - Work with the SC to establish foundation policies that balance the interests of volunteers, commercial actors, and public institutions, while staying within legal and administrative feasibility constraints. Both the SC and the board need to approve such policies. This includes sponsorship eligibility and trademark policies.
   - Build and maintain beneficial and collaborative relationships
   - Maintain and support grants/grant providers
 - Provide a framework for the community to self-organise:
