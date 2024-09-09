@@ -110,7 +110,7 @@ Regular elections are once a year, with half (alternating rounding every year) o
 such that each member holds a seat for one term of at most 2 years before it is up for election again.
 Members can at most serve two consecutive terms. There is no lifetime maximum.
 
-The previous SC appoints an Election Committee (EC) of at least 3 people to administer the election. If the SC cannot come to supermajority agreement on the list of EC members, they will conduct an election using the same tallying system as the previous SC election, where only SC members can vote.
+The previous SC appoints an Election Committee (EC) of at least 3 people to administer the election. If the SC cannot come to supermajority agreement on the list of EC members, they will elect an EC using the same tallying system as the previous SC election, where only SC members can vote.
 SC members can be EC members only if they're leaving after the election.
 
 #### Vote eligibility
