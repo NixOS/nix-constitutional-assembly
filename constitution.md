@@ -118,7 +118,7 @@ Only contributions to official projects in the four years preceding the cutoff d
 
 There are two automatic ways to become eligible for voting, either:
 - Have authored enough merged PRs to the [NixOS GitHub organisation](https://github.com/nixos) to total at least 25 commits.
-- Have merged any PR to the NixOS GitHub organisation.
+- Have exercised commit access by merging any PR to the NixOS GitHub organisation.
 
 The list of automatically eligible voters is made public.
 
