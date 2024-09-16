@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document describes the highest level of governance structure for projects under the NixOS Foundation.
+This document describes the highest level of governance structure for official Nix projects.
 
 ## Overview
 
