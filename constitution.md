@@ -1,4 +1,4 @@
-# Nix Governance Constitution (draft)
+# Nix Governance Constitution
 
 ## Introduction
 
