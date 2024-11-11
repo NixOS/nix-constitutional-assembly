@@ -1,3 +1,6 @@
+> [!Note]
+> This repository is archived because the NCA's mission has been completed with the [Nix Community Values](https://github.com/NixOS/org/blob/main/doc/values.md), the [Nix Governance Constitution](https://github.com/NixOS/org/blob/main/doc/constitution.md) and the [first Steering Committee Election](https://github.com/nixos/SC-election-2024).
+
 # Nix Constitutional Assembly
 
 The Nix Constitutional Assembly (NCA) is a group of people tasked with establishing a community-based governance structure for Nix that is capable of serving the community's needs.
